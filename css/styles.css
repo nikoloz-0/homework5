@@ -37,3 +37,40 @@ header {
 }
 
 /* article */
+.article1 {
+    /* background-color: #2A9D8F; */
+    width: 780px;
+    margin: 200px auto;
+}
+
+h2 {
+    text-align: center;
+    color: #4D4D4D;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 130%;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.article1_text {
+    margin-top: 60px;
+    margin-bottom: 52px;
+    color: #656565;
+    text-align: justify;
+    font-family: 'Nerko One', cursive;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: 0.1px;
+}
+
+.article1_text2 {
+    color: #656565;
+    text-align: justify;
+    font-family: 'Nerko One', cursive;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 170%;
+    letter-spacing: 0.2px;
+}
